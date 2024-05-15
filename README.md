@@ -1,5 +1,5 @@
 # PRODIGY_CS_01
-It is a program for Caesar Cipher algorithm used to encrypt or decrypt a msg.
+It is a python program for Caesar Cipher algorithm used to encrypt or decrypt a msg.
 
 #Casear Cipher python code
 
